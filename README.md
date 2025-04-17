@@ -1,3 +1,4 @@
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 # Automotive Software-Defined Firewall (SDF) Framework
 A comprehensive framework for implementing Software-Defined Firewalls (SDF) in automotive Electronic Control Units (ECUs) to enhance security, control, and management of inter-ECU communications.
 
